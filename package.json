@@ -1,0 +1,22 @@
+{
+  "name": "es6-tests",
+  "version": "1.0.0",
+  "description": "Small tests of the new features from ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszAmroz/es6-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszAmroz/es6-tests/issues"
+  },
+  "homepage": "https://github.com/LukaszAmroz/es6-tests#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.7.4"
+  }
+}
